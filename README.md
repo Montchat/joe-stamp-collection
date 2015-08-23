@@ -3,4 +3,4 @@ Joe's Stamp Collection App
 
 # About Simon
 
-Stuff about Joe's stamps here '
+New York Times Raves this is the best stamp collection of the ages!
