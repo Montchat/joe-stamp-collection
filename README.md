@@ -1,7 +1,6 @@
 Joe's Stamp Collection App 
 ---
 
-# About
+# About Simon
 
-Stuff about Joe here
-
+Stuff about Joe's stamps here '
