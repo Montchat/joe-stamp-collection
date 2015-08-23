@@ -1,6 +1,6 @@
 Joe's Stamp Collection App 
 ---
 
-# About Simon
+# About Joe's Stamps
 
-Stuff about Joe's stamps here '
+Joe has been collecting stamps forever. He has a wide variety of expensive and exotic Chinese stamps. 
